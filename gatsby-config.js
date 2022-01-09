@@ -8,11 +8,15 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run/running',
+        url: 'https://ufiv.info',
       },
+      // {
+      //   name: 'About',
+      //   url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      // },
       {
-        name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        name: 'This Project',
+        url: 'https://github.com/yihong0618/running_page',
       },
     ],
   },
